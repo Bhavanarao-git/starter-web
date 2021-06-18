@@ -8,6 +8,10 @@ This is a example to show diffrent parts of Git repository and various commands 
 
 ## Prupose
 
+As stated above, the main purpose is to providesimple exaplme for git training demos.
+
 ## Deployment
+
+This is a simple web project,deploymet can be on any wen sever or even on local file system.
 
 ## How To contribute

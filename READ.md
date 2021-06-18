@@ -15,3 +15,6 @@ As stated above, the main purpose is to providesimple exaplme for git training d
 This is a simple web project,deploymet can be on any wen sever or even on local file system.
 
 ## How To contribute
+
+### Copyright
+Git.Traning 2021

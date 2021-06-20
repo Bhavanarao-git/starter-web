@@ -20,4 +20,4 @@ This is a simple web project,deploymet can be on any wen sever or even on local 
 Please fork this repository and then issue a pull request to review.
 
 ### Copyright
-Git.Traning 2021
+Git.Traning 2021 All rights resevered 
